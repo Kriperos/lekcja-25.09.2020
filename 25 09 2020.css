@@ -6,6 +6,7 @@
     position: relative;
     animation: myfirst 5s 2;
     animation-direction: alternate;
+    overflow: hidden;
 }
 @keyframes myfirst {
     0%   {background: red; left: 0px; top: 0px;}
